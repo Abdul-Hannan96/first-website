@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A New Website",
+    "section": "",
+    "text": "This is a Quarto website for test purpose.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About This Website\nThis website is a personal project by Abdul Hannan for bootcamp homework."
+  }
+]
