@@ -1,5 +1,10 @@
 ---
 title: "About"
+format: html
 ---
 
-About this site
+# About This Website
+
+This website is a personal project by Abdul Hannan for bootcamp homework.
+
+---
